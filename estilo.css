@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+.cabecalho {
+    background-color: rgb(87, 33, 33);
+    color: white;
+    padding: 20px;
+}
+
+h3 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+#ImagemLoja {
+    width: 100%;
+}
+
+#Destaques {
+    padding: 20px;
+    color: white;    
+}
+
+#imagensDestaques{
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+#rodape{
+    padding: 30px;
+    background-color:rgb(87, 33, 33);
+    color: white;
+}
+
+
+
+.card{
+    text-align: center;
+}
